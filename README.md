@@ -4,6 +4,8 @@
 
 ## ASSIGNMENT - Analysing similarity between different articles of Lakshmi Sankaran
 
+[Interactive Python Notebook](https://github.com/ChristeenTJose/CSE4022_NLP/blob/master/Assignment.ipynb)
+
 PROCEDURE USED [CHRISTEEN]:
 
 1. Web Scraping using Beautiful Soup for building the corpus
