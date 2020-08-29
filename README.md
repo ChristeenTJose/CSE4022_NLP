@@ -2,7 +2,7 @@
 
 ---
 
-## ASSIGNMENT
+## ASSIGNMENT - Analysing similarity between different articles of Lakshmi Sankaran
 
 PROCEDURE USED [CHRISTEEN]:
 
