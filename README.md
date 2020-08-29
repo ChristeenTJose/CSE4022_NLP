@@ -6,7 +6,7 @@
 
 [Interactive Python Notebook](https://github.com/ChristeenTJose/CSE4022_NLP/blob/master/Assignment.ipynb)
 
-PROCEDURE USED [CHRISTEEN]:
+PROCEDURE USED:
 
 1. Web Scraping using Beautiful Soup for building the corpus
 2. Data cleaning to remove information about the author from scraped data 
@@ -15,7 +15,7 @@ PROCEDURE USED [CHRISTEEN]:
 4. CountVectoriser
 5. Cosine Similarity
 
-RESULTS [CHRISTEEN]:
+RESULTS:
 
 * Similarity between Articles:  0  and  1  :  [[0.21078196]]
 * Similarity between Articles:  0  and  2  :  [[0.21708323]]
