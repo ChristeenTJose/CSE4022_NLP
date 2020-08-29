@@ -9,7 +9,7 @@ PROCEDURE USED [CHRISTEEN]:
 1. Web Scraping using Beautiful Soup for building the corpus
 2. Data cleaning to remove information about the author from scraped data 
 3. Stemming using Lancaster Stemmer
-   * Observed a decrease in corpus vocabulary from 947 unique words to 903 unique words
+   * Observed a decrease in corpus vocabulary from **947** unique words to **903** unique words
 4. CountVectoriser
 5. Cosine Similarity
 
