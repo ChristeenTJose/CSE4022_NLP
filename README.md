@@ -1,8 +1,6 @@
 # CSE4022_NLP
 
-## Homework 1:
-
-![](https://github.com/ChristeenTJose/CSE4022_NLP/blob/master/HW1.png)
+---
 
 ## ASSIGNMENT
 
@@ -17,10 +15,18 @@ Observed a decrease in corpus vocabulary from 947 unique words to 903 unique wor
 
 RESULTS [CHRISTEEN]:
 
-Similarity between Articles:  0  and  1  :  [[0.21078196]]
-Similarity between Articles:  0  and  2  :  [[0.21708323]]
-Similarity between Articles:  0  and  3  :  [[0.19642857]]
-Similarity between Articles:  1  and  2  :  [[0.19987028]]
-Similarity between Articles:  1  and  3  :  [[0.21078196]]
-Similarity between Articles:  2  and  3  :  [[0.206407]]
+* Similarity between Articles:  0  and  1  :  [[0.21078196]]
+* Similarity between Articles:  0  and  2  :  [[0.21708323]]
+* Similarity between Articles:  0  and  3  :  [[0.19642857]]
+* Similarity between Articles:  1  and  2  :  [[0.19987028]]
+* Similarity between Articles:  1  and  3  :  [[0.21078196]]
+* Similarity between Articles:  2  and  3  :  [[0.206407]]
+
+---
+
+## Homework 1:
+
+![](https://github.com/ChristeenTJose/CSE4022_NLP/blob/master/HW1.png)
+
+
 
